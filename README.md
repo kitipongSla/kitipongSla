@@ -28,3 +28,4 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 - 💻 &nbsp;
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular)
+  - 💻 &nbsp;
