@@ -54,8 +54,7 @@
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 - 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  ![Sketch](https://img.shields.io/badge/-Sketch-333333?style=flat&logo=sketch)
   ![AdobeXD](https://img.shields.io/badge/-AdobeXD-333333?style=flat&logo=adobe-XD)
 
 <br/>
