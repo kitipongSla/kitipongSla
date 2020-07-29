@@ -1,15 +1,7 @@
-### Hi there 👋
-
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href= "https://www.facebook.com/kitipongSlangsing"><img src="https://img.icons8.com/nolan/64/facebook-new.png"/></a>
-  
-  <a href= "https://medium.com/@garssallaoui.bayrem"><img src="https://img.icons8.com/dusk/48/000000/medium-new.png"/></a>
-  <a href= "https://twitter.com/kaizoku_ouh"><img src="https://img.icons8.com/dusk/48/000000/twitter.png"/></a>
-  <a href= "https://signal.org"><img src="https://img.icons8.com/color/48/000000/signal-app.png"/></a>
-  <a href= "https://www.youtube.com/channel/UCj_aGuryykHGnmFXHa5kzLQ"><img src="https://img.icons8.com/dusk/48/000000/youtube--v2.png"/></a>
+  <a href= "https://www.facebook.com/kitipongSlangsing"><img src="https://img.icons8.com/nolan/96/facebook-new.png"/></a>
 </p>
-
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=kitipongSla&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -36,7 +28,6 @@
 - 📫 How to reach me: you can reach me from the social media links above
 - 😄 Pronouns: he/him
 - ⚡ Languages: C, Python, Java
-
 
 <!--
 **kitipongSla/kitipongSla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
