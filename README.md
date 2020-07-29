@@ -1,7 +1,7 @@
-<h3 align="center">Connect with me</h3>
+ <!-- <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href= "https://www.facebook.com/kitipongSlangsing"><img src="https://img.icons8.com/nolan/96/facebook-new.png"/></a>
-</p>
+</p> -->
 <p>
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=kitipongSla&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
