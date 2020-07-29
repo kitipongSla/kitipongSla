@@ -28,6 +28,8 @@
 - 🦾  Tools Develop: Visual Studio, Sublime, SourceTree Git, Webstorm, Postman, Atom
 - 🙊  Design tools: Sketch, Adobe XD
 
+- 💻 &nbsp;
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular)
 <!--
 **kitipongSla/kitipongSla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
