@@ -50,7 +50,7 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
+  ![Sublime](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublime-Text)
 - 🖥 &nbsp;
   ![Sketch](https://img.shields.io/badge/-Sketch-333333?style=flat&logo=sketch)
   ![AdobeXD](https://img.shields.io/badge/-AdobeXD-333333?style=flat&logo=adobe-XD)
