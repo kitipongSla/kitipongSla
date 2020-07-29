@@ -21,13 +21,10 @@
 **KitipongSla/KitipongSla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on embedded systems, mainly programming and connecting tiny devices to the internet
-- 🌱 I’m currently learning python and docker
-- 👯 I’m looking to collaborate on IoT projects
-- 💬 Ask me about IoT solutions and connecting devices to the cloud
+- 🌱 I’m currently learning React and Node.Js RESTful API
 - 📫 How to reach me: you can reach me from the social media links above
-- 😄 Pronouns: he/him
-- ⚡ Languages: C, Python, Java
+- ⚡ Languages: HTML, CSS, JavaScript, TypeScript 
+- 🦾 Tools Develop: Visual Studio, Sublime, SourceTree Git, Webstorm, Postman, Atom
 
 <!--
 **kitipongSla/kitipongSla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
