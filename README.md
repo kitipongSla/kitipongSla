@@ -2,7 +2,9 @@
 <p align="center">
   <a href= "https://www.facebook.com/kitipongSlangsing"><img src="https://img.icons8.com/nolan/96/facebook-new.png"/></a>
 </p> -->
+<h1>
 <img src="https://github.com/kitipongSla/kitipongSla/blob/master/KITIPONG%20SLAMGSING.png">
+</h1>
 <br/>
 <p align="center">
     <img src="https://views.whatilearened.today/views/github/kitipongSla/views.svg"/>
