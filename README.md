@@ -22,9 +22,7 @@
 </p>
 <hr>
 </hr>
-<br/>
-<h2> Hey there! I'm Yok.</h2>
-
+ ##Hey there! I'm Yok.
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
@@ -33,7 +31,7 @@
 - 📫 &nbsp; How to reach me: you can reach me from the social media links above.
 <hr>
 </hr>
-## 🛠 &nbsp;Tech Stack
+<h3> 🛠 &nbsp;Tech Stack </h3>
 
 - 💻 &nbsp;
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular)
