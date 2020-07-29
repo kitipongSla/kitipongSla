@@ -24,10 +24,6 @@
 
 - 🌱  I’m currently learning React and Node.Js RESTful API
 - 📫  How to reach me: you can reach me from the social media links above
-<!-- - ⚡   Languages: HTML, CSS, JavaScript, TypeScript 
-- 🦾  Tools Develop: Visual Studio, Sublime, SourceTree Git, Webstorm, Postman, Atom
-- 🙊  Design tools: Sketch, Adobe XD
--->
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 - 💻 &nbsp;
