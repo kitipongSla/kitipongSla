@@ -18,8 +18,7 @@
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kitipongSla" />
   </a>
 </p>
-<br/><br/>
-
+<br/>
 <h2> Hey there! I'm Kitipong.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
