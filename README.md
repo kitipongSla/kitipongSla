@@ -19,7 +19,7 @@
   </a>
 </p>
 <br/>
-<h2> Hey there! I'm Kitipong.</h2>
+<h2> Hey there! I'm Yok.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
