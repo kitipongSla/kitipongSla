@@ -8,7 +8,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kitipongSla" />
   </a>
-  <p>
+ <p align="center">
     <img src="https://views.whatilearened.today/views/github/kitipongSla/views.svg"/>
     <a href="https://github.com/KitipongSla/"><img src="https://img.shields.io/github/followers/KitipongSla?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
     <a href="https://github.com/KitipongSla?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
