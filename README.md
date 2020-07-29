@@ -56,14 +56,9 @@
 - 🖥 &nbsp;
   ![Sketch](https://img.shields.io/badge/-Sketch-333333?style=flat&logo=sketch)
   ![AdobeXD](https://img.shields.io/badge/-AdobeXD-333333?style=flat&logo=adobe-XD)
-
-<br/>
-<br/>
 <hr>
 </hr>
-
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/kitipong-slangsing/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kitipong%20Slangsing%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/kitipongslangsing/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-kitipongSlangsing-blue?style=flat-square&logo=instagram"></a>
