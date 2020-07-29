@@ -60,7 +60,7 @@
 </hr>
 <h3> 📫  &nbsp;Connect with Me </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/kitipong-slangsing/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kitipong%20Slangsing%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/kitipong-slangsing-20b6a31b3/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kitipong%20Slangsing%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/kitipongslangsing/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-kitipongSlangsing-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:kitipong.sla@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kitipong.sla@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
