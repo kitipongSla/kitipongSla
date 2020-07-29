@@ -2,7 +2,8 @@
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href= "https://www.facebook.com/kitipongSlangsing"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png"/></a>
+  <a href= "https://www.facebook.com/kitipongSlangsing"><img src="https://img.icons8.com/nolan/96/facebook-new.png"/></a>
+  
   <a href= "https://medium.com/@garssallaoui.bayrem"><img src="https://img.icons8.com/dusk/48/000000/medium-new.png"/></a>
   <a href= "https://twitter.com/kaizoku_ouh"><img src="https://img.icons8.com/dusk/48/000000/twitter.png"/></a>
   <a href= "https://signal.org"><img src="https://img.icons8.com/color/48/000000/signal-app.png"/></a>
@@ -35,6 +36,7 @@
 - 📫 How to reach me: you can reach me from the social media links above
 - 😄 Pronouns: he/him
 - ⚡ Languages: C, Python, Java
+
 
 
 <!--
