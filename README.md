@@ -20,6 +20,8 @@
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kitipongSla" />
   </a>
 </p>
+<hr>
+</hr>
 <br/>
 <h2> Hey there! I'm Yok.</h2>
 
