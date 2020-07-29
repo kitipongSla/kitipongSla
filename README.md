@@ -17,18 +17,6 @@
 </p>
 <br/><br/>
 
-<!--
-**KitipongSla/KitipongSla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-👨🏻‍💻  About Me
-
-- 🌱  I’m currently learning React and Node.Js RESTful API
-- 📫  How to reach me: you can reach me from the social media links above
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-
-
 <h2> Hey there! I'm Kitipong.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
