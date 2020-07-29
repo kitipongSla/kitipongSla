@@ -22,7 +22,7 @@
 </p>
 <hr>
 </hr>
- ##Hey there! I'm Yok.
+<h3> Hey there! I'm Yok. </h3>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
