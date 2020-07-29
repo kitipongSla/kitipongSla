@@ -37,9 +37,10 @@
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular)
   ![IONIC](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=Ionic)
 - 🌐 &nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=Typescript)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -49,9 +50,13 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Sublime](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublime-Text)
+  ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=Atom)
+  ![WebStorm](https://img.shields.io/badge/-Web%20Storm-333333?style=flat&logo=WebStorm)
+  
 - 🖥 &nbsp;
   ![Sketch](https://img.shields.io/badge/-Sketch-333333?style=flat&logo=sketch)
   ![AdobeXD](https://img.shields.io/badge/-AdobeXD-333333?style=flat&logo=adobe-XD)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 <hr>
 </hr>
 <h3> 📫  &nbsp;Connect with Me </h3>
