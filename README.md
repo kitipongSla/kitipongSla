@@ -31,10 +31,8 @@
 - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - 🌱 &nbsp; I’m currently learning React and Node.Js RESTful API.
 - 📫 &nbsp; How to reach me: you can reach me from the social media links above.
-
 <hr>
 </hr>
-
 ## 🛠 &nbsp;Tech Stack
 
 - 💻 &nbsp;
