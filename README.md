@@ -26,4 +26,7 @@
 - 📫  How to reach me: you can reach me from the social media links above
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-- 🌐 &nbsp;
+- 🖥 &nbsp;
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
