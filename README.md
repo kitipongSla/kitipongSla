@@ -32,6 +32,9 @@
 - 🌱 &nbsp; I’m currently learning React and Node.Js RESTful API.
 - 📫 &nbsp; How to reach me: you can reach me from the social media links above.
 
+<hr>
+</hr>
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -60,6 +63,8 @@
 
 <br/>
 <br/>
+<hr>
+</hr>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
