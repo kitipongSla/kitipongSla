@@ -35,7 +35,7 @@
 <hr>
 </hr>
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+## 🛠 &nbsp;Tech Stack
 
 - 💻 &nbsp;
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular)
