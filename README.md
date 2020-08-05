@@ -25,7 +25,7 @@
 <h3 align="center"> Hey there! I'm Yok. </h3>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
+- 🎓 &nbsp; Studying Computer Science and Mahasarakham University
 - 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
 - 🌱 &nbsp; I’m currently learning React and Node.Js RESTful API.
 - 📫 &nbsp; How to reach me: you can reach me from the social media links above.
