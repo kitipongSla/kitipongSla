@@ -35,33 +35,26 @@
 
 - 💻 &nbsp;
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=Angular)
-  ![IONIC](https://img.shields.io/badge/-Ionic-333333?style=flat&logo=Ionic)
+  ![Express](https://img.shields.io/badge/-express-333333?style=flat&logo=express)
 - 🌐 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=Typescript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![NoSQL]([https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql](https://img.shields.io/badge/-NoSQL-333333?style=flat&logo=mysql))
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Sublime](https://img.shields.io/badge/-Sublime%20Text-333333?style=flat&logo=sublime-Text)
-  ![Atom](https://img.shields.io/badge/-Atom-333333?style=flat&logo=Atom)
-  ![WebStorm](https://img.shields.io/badge/-Web%20Storm-333333?style=flat&logo=WebStorm)
   
 - 🖥 &nbsp;
-  ![Sketch](https://img.shields.io/badge/-Sketch-333333?style=flat&logo=sketch)
-  ![AdobeXD](https://img.shields.io/badge/-AdobeXD-333333?style=flat&logo=adobe-XD)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 <hr>
 </hr>
 <h3> 📫  &nbsp;Connect with Me </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/kitipong-slangsing-20b6a31b3/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kitipong%20Slangsing%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/kitipongslangsing/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-kitipongSlangsing-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:kitipong.sla@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kitipong.sla@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
